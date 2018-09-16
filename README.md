@@ -1,4 +1,4 @@
-# schoolstudio
+# schoolstudio (mobile platform)
 
 A new Flutter project.
 
